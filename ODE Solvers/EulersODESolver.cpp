@@ -5,7 +5,7 @@ using namespace std;
 
 double dydx(double x, double y){
     return x*y; //This is the expression
-    //Enter the PDE in the form of dy/dx = expression
+    //Enter the ODE in the form of dy/dx = expression
 }
 
 int main(){
