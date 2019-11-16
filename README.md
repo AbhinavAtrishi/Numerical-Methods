@@ -4,7 +4,7 @@ This repository contains the C++ implementation of the algorithms taught in Nume
 
 Currently implemented solutions are:
 
-1. Methods to solve Polynomial and Trancedental Equations
+1. Methods to solve Polynomial and Transcendental Equations
   * Method of Bisection
   * Secant Method
   * Regular Falsi Method
